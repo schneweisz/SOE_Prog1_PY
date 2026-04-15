@@ -44,3 +44,4 @@ print(szotar)
 
 #20
 szamok = [1, 2, 2, 3, 4, 4, 5]
+egyedi = [szam for szam in szamok if szam%5==2]
