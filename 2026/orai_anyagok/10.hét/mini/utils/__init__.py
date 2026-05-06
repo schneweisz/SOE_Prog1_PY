@@ -1,0 +1,3 @@
+"""
+Segédfüggvényeket tartalmazó csomag
+"""
